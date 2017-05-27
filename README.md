@@ -12,3 +12,4 @@ ruby -v
 ```
 3. Run `gem install sinatra` to install sinatra.
 4. Run `ruby src/app.rb` to start the app.
+5. Go to your browser and go to URL `http://localhost:4567/process`
