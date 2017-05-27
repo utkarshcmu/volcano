@@ -1,4 +1,4 @@
-# volcano - Analyze your proteo mix using volcano in an unbiased manner.
+# volcano - Analyze your proteomics data using volcano in an unbiased manner.
 
 ## Prerequisites to run:
 
